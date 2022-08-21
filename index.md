@@ -1,16 +1,3 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/chrisgpark/DBFoundations-Module07/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Assignment 7 – Functions
 
 ### Introduction 
@@ -24,5 +11,3 @@ We use User Defined Functions (UDFs) to create custom functions that are not pre
 ### Conclusion
 
 I was under the impression that the ability to work with SQL views is far more critical than functions. However, after completing this assignment, I realize that being fluent with scalar function can be very beneficial at work. I often create loops using VBA with conditional statements to create binary variables but using a scalar function will be much more efficient.
-
-### Jekyll Themes
